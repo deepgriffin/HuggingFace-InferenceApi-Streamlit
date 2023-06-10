@@ -1,5 +1,6 @@
 # Video Script Generation
-[![Youtube Video Script Generation](https://github-production-user-asset-6210df.s3.amazonaws.com/135519351/243179875-e2120e96-22c6-4396-bed4-70b05f207f9b.png)](https://youtu.be/uDEL9BzS7l0)
+[![HuggingFace Spaces for apps](https://github.com/deepgriffin/HuggingFace-InferenceApi-Streamlit/assets/135519351/fe766910-e68d-42ef-97e7-c228bd56e825)](https://youtu.be/VPvBFb4q-Vo)
+
 
 ## Description
 
