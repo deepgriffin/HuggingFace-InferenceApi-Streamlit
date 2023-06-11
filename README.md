@@ -1,6 +1,5 @@
-# Video Script Generation
+# HuggingFace Spaces for apps
 [![HuggingFace Spaces for apps](https://github.com/deepgriffin/HuggingFace-InferenceApi-Streamlit/assets/135519351/fe766910-e68d-42ef-97e7-c228bd56e825)](https://youtu.be/VPvBFb4q-Vo)
-
 
 ## Description
 
